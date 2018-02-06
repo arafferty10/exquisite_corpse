@@ -1,0 +1,22 @@
+html{
+  background-image: url(../img/fog-woods.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: helvetica;
+}
+header{
+  text-align: center;
+}
+main{
+  background-color: rgba(0,0,0, 0.5);
+  padding: 2.5%;
+}
+section{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+p{
+  text-indent: 50px;
+}
