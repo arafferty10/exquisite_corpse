@@ -1,4 +1,5 @@
 html{
+  background-color: steelblue;
   background-image: url(../img/fog-woods.gif);
   background-size: cover;
   background-repeat: no-repeat;
@@ -8,6 +9,8 @@ html{
 }
 header{
   text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 1px black;
 }
 main{
   background-color: rgba(0,0,0, 0.25);
@@ -15,8 +18,8 @@ main{
   padding: 2.5%;
 }
 section{
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 p{
   text-indent: 50px;
