@@ -9,6 +9,10 @@ html{
 header{
   text-align: center;
 }
+main{
+  background-color: rgba(0,0,0, 0.5);
+  padding: 2.5%;
+}
 section{
   margin-left: 15%;
   margin-right: 15%;
