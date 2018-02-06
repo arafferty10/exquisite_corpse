@@ -13,13 +13,19 @@ header{
   text-shadow: 1px 1px black;
 }
 main{
-  background-color: rgba(0,0,0, 0.25);
-  color: rgb(50,50,50);
+  background-color: rgba(0,0,0, 0.5);
+  color: whitesmoke;
   padding: 2.5%;
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 section{
   margin-left: 5%;
   margin-right: 5%;
+}
+h2{
+  text-align: center;
 }
 p{
   text-indent: 50px;
