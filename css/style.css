@@ -10,13 +10,18 @@ header{
   text-align: center;
 }
 main{
-	color: white;
+  color: white;
   background-color: rgba(0,0,0, 0.5);
   padding: 2.5%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 section{
   margin-left: 15%;
   margin-right: 15%;
+}
+.container {
+	padding: 10%;
 }
 p{
   text-indent: 50px;
