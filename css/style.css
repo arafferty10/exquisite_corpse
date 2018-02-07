@@ -32,8 +32,11 @@ header{
 }
 
 main{
-  background-color: rgba(0,0,0, 0.65);
   color: whitesmoke;
+}
+
+.story{
+  background-color: rgba(0,0,0, 0.65);
   padding: 2.5%;
   margin-top: 50px;
   margin-left: 10%;
@@ -59,6 +62,11 @@ h2{
   text-align: center;
   font-size: 32pt;
   font-family: 'Fredericka the Great', cursive;
+  background-color: rgba(0,0,0, 0.65);
+  padding: 2.5%;
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 p{
