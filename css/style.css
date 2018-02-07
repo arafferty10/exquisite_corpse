@@ -5,7 +5,7 @@ Spring 2017
 Aidan Rafferty
 Kenzy O'Neill
 Ashley Koett
-Anthony
+Anthony Pappalardo III
 */
 
 
@@ -16,7 +16,6 @@ html{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-/*  font-family: helvetica;*/
 }
 
 body{
@@ -74,3 +73,8 @@ p{
   text-indent: 50px;
   font-size: 28pt;
 }
+.creature{
+  font-style: italic;
+  color: maroon;
+  font-size: 35pt;
+ }
