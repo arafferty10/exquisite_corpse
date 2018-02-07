@@ -1,3 +1,14 @@
+
+/*Exquisite Corpse
+Creative Web Development
+Spring 2017
+Aidan Rafferty
+Kenzy O'Neill
+Ashley Koett
+Anthony
+*/
+
+
 html{
   background-color: steelblue;
   background-image: url(../img/fog-woods.gif);
@@ -7,6 +18,13 @@ html{
   background-attachment: fixed;
   font-family: helvetica;
 }
+
+body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
 header{
   text-align: center;
   font-weight: bold;
