@@ -16,7 +16,7 @@ html{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  font-family: helvetica;
+/*  font-family: helvetica;*/
 }
 
 body{
@@ -30,21 +30,38 @@ header{
   font-weight: bold;
   text-shadow: 1px 1px black;
 }
+
 main{
-  background-color: rgba(0,0,0, 0.5);
+  background-color: rgba(0,0,0, 0.65);
   color: whitesmoke;
   padding: 2.5%;
   margin-top: 50px;
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.content{
+  font-family: 'Amatic SC', cursive;
+}
+
 section{
   margin-left: 5%;
   margin-right: 5%;
 }
+
+h1{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 4em;
+  text-shadow: 4px 4px #717272;
+}
+
 h2{
   text-align: center;
+  font-size: 32pt;
+  font-family: 'Fredericka the Great', cursive;
 }
+
 p{
   text-indent: 50px;
+  font-size: 28pt;
 }
