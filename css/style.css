@@ -31,7 +31,6 @@ header{
 }
 
 main{
-  /*background-color: rgba(0,0,0, 0.25);*/
   color: whitesmoke;
 }
 
@@ -39,8 +38,8 @@ main{
   background-color: rgba(0,0,0, 0.65);
   padding: 2.5%;
   margin-top: 400px;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .content{
