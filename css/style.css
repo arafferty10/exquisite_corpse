@@ -103,10 +103,3 @@ p{
   background-size: cover;
   background-repeat: no-repeat;
  }
- .nope{
-   background-image: url(../img/evil-forest.gif);
-   z-index: -1;
-   background-position: center;
-   background-size: cover;
-   background-repeat: no-repeat;
- }
