@@ -1,3 +1,14 @@
+
+/*Exquisite Corpse
+Creative Web Development
+Spring 2017
+Aidan Rafferty
+Kenzy O'Neill
+Ashley Koett
+Anthony Pappalardo III
+*/
+
+
 html{
   background-color: steelblue;
   background-image: url(../img/fog-woods.gif);
@@ -5,27 +16,69 @@ html{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  font-family: helvetica;
 }
+
+body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
 header{
   text-align: center;
   font-weight: bold;
   text-shadow: 1px 1px black;
 }
+
 main{
-  color: white;
-  background-color: rgba(0,0,0, 0.5);
   background-color: rgba(0,0,0, 0.25);
-  color: rgb(50,50,50);
-  padding: 2.5%;
+  color: whitesmoke;
 }
+
+.story{
+  background-color: rgba(0,0,0, 0.65);
+  padding: 2.5%;
+  margin-top: 400px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.content{
+  font-family: 'Amatic SC', cursive;
+}
+
 section{
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .container {
 	padding: 10%;
 }
+
+h1{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 4em;
+  text-shadow: 4px 4px #717272;
+  margin-top: 250px;
+}
+
+h2{
+  text-align: center;
+  font-size: 32pt;
+  font-family: 'Fredericka the Great', cursive;
+  background-color: rgba(0,0,0, 0.65);
+  padding: 2.5%;
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 p{
   text-indent: 50px;
+  font-size: 28pt;
 }
+.creature{
+  font-style: italic;
+  color: maroon;
+  font-size: 35pt;
+ }
