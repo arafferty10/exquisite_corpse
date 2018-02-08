@@ -61,6 +61,9 @@ h1{
   text-shadow: 4px 4px #717272;
   margin-top: 100px;
 }
+.fire {
+  background-image: url(img/fire.gif);
+}
 
 h2{
   text-align: center;
