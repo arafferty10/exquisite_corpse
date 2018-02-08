@@ -61,12 +61,8 @@ h1{
   text-shadow: 4px 4px #717272;
   margin-top: 100px;
 }
-
 .fire {
-  background-image: url(../img/fire.gif);
-  z-index: -1;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-image: url(img/fire.gif);
 }
 
 h2{
