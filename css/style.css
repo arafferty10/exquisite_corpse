@@ -96,3 +96,10 @@ p{
   color: maroon;
   font-size: 35pt;
  }
+ .fog{
+  background-image: url(../img/fog.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+ }
