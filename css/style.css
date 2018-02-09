@@ -11,7 +11,7 @@ Anthony Pappalardo III
 
 html{
   background-color: steelblue;
-  background-image: url(../img/fog-woods.gif);
+  background-image: url(../img/light-fog-forest.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -61,8 +61,20 @@ h1{
   text-shadow: 4px 4px #717272;
   margin-top: 100px;
 }
+
 .fire {
-  background-image: url(img/fire.gif);
+  background-image: url(../img/fire.gif);
+  z-index: -1;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.creature-img {
+  background-image: url(../img/creature.png);
+  background-size: 90%;
+  z-index: -1;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h2{
@@ -83,4 +95,11 @@ p{
   font-style: italic;
   color: maroon;
   font-size: 35pt;
+ }
+ .fog{
+  background-image: url(../img/fog.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
  }
