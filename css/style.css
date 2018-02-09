@@ -93,7 +93,8 @@ p{
 }
 .creature{
   font-style: italic;
-  color: maroon;
+  color: #cc0000;
+  text-shadow: 2px 2px black;
   font-size: 35pt;
  }
  .fog{
