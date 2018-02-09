@@ -61,8 +61,12 @@ h1{
   text-shadow: 4px 4px #717272;
   margin-top: 100px;
 }
+
 .fire {
-  background-image: url(img/fire.gif);
+  background-image: url(../img/fire.gif);
+  z-index: -1;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .creature-img {
@@ -91,4 +95,11 @@ p{
   font-style: italic;
   color: maroon;
   font-size: 35pt;
+ }
+ .fog{
+  background-image: url(../img/fog.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
  }
