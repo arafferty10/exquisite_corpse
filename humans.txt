@@ -1,79 +1,72 @@
-                            
+
 /* TEAM */
 
-                            
-Your title: Aidan Rafferty                          
-Site: aidanrafferty.com             
+
+Your title: Aidan Rafferty
+Site: aidanrafferty.com
 Location: Noneya, Buisness.
 
 
-                            
+
 Your title: Ashley Koett.
 
-                            
+
 Site: email, link to a contact form, etc.
 
-                            
+
 Twitter: your Twitter username.
 
-                            
+
 Location: City, Country.
 
 
 
-                            
+
 Your title: Kenzy O'Neill.
 
-                            
+
 Site: email, link to a contact form, etc.
 
-                            
+
 Twitter: your Twitter username.
 
-                            
+
 Location: City, Country.
 
 
 
-                            
+
 Your title: Anthony Pappalardo III
+Site: creative.colorado.edu/~anpa7322/portfolio/index.html
+Location: Boulder, Colorado USA.
 
-                            
-Site: email, link to a contact form, etc.
 
-                            
-Twitter: your Twitter username.
 
-                            
-Location: City, Country.
-
-                         
-                 
                         [...]
-						
 
-							
+
+
 /* THANKS */
 
-							
+
 Name: David Schaal
 
-						
-                 
-                        [...]
-                        
 
-                            
+
+                        [...]
+
+
+
 /* SITE */
 
-                            
-Last update: 2018/02/13 
 
-                            
+Last update: 2018/02/13
+
+
 Standards: HTML5, CSS3, JavasScript
 
-                            
+
 Components: ScrollReveal
 
-                            
+
 Software: Software used for the development
