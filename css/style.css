@@ -32,6 +32,7 @@ header{
 
 main{
   color: whitesmoke;
+  text-shadow: 2px 2px rgb(175,0,0);
 }
 
 .story{
@@ -97,10 +98,24 @@ p{
   text-shadow: 2px 2px black;
   font-size: 35pt;
  }
- .fog{
+.fog{
   background-image: url(../img/fog.gif);
   z-index: -1;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
  }
+.hiker{
+  background-image: url(../img/nigh-hiker-gif.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.thing{
+  background-image: url(../img/thing.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
