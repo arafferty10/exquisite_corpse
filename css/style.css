@@ -91,6 +91,7 @@ h2{
 p{
   text-indent: 50px;
   font-size: 28pt;
+  border-radius: 10px;
 }
 .creature{
   font-style: italic;
@@ -117,5 +118,19 @@ p{
   z-index: -1;
   background-position: center;
   background-size: 100%;
+  background-repeat: no-repeat;
+}
+.cave{
+  background-image: url(../img/cave.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.trippy{
+  background-image: url(../img/trippy.gif);
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
 }
