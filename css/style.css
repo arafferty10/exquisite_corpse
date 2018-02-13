@@ -12,7 +12,6 @@ Anthony Pappalardo III
 html{
   background-color: steelblue;
 }
-
 body{
   margin: 0;
   width: 100%;
@@ -23,18 +22,14 @@ body{
   background-position: center;
   background-attachment: fixed;
 }
-
 header{
   text-align: center;
   font-weight: bold;
   text-shadow: 1px 1px black;
 }
-
 main{
   color: whitesmoke;
-  text-shadow: 2px 2px rgb(175,0,0);
 }
-
 .story{
   background-color: rgba(0,0,0, 0.65);
   padding: 2.5%;
@@ -42,34 +37,28 @@ main{
   margin-left: 5%;
   margin-right: 5%;
 }
-
 .content{
   font-family: 'Amatic SC', cursive;
 }
-
 section{
   margin-left: 5%;
   margin-right: 5%;
 }
-
 .container {
 	padding: 10%;
 }
-
 h1{
   font-family: 'Fredericka the Great', cursive;
   font-size: 4em;
   text-shadow: 4px 4px #717272;
   margin-top: 100px;
 }
-
 .fire {
   background-image: url(../img/fire.gif);
   z-index: -1;
   background-position: center;
   background-repeat: no-repeat;
 }
-
 .creature-img {
   background-image: url(../img/creature.png);
   background-size: 90%;
@@ -77,7 +66,6 @@ h1{
   background-position: center;
   background-repeat: no-repeat;
 }
-
 h2{
   text-align: center;
   font-size: 32pt;
@@ -92,6 +80,7 @@ p{
   text-indent: 50px;
   font-size: 28pt;
   border-radius: 10px;
+  text-shadow: 2px 2px rgb(175,0,0);
 }
 .creature{
   font-style: italic;
@@ -133,4 +122,9 @@ p{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+footer{
+  color: whitesmoke;
+  padding-left: 2.5%;
+  padding-bottom: 20px;
 }
